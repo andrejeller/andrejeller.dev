@@ -8,7 +8,7 @@ Icon colors
 .icon {
   display: inline-block;
   /* icon primary color */
-  color: #111111;
+  color: #000000;
   height: 1em;
   width: 1em;
 }
@@ -98,6 +98,13 @@ Icon reset values - used to enable color customizations
 .icon.icon-outline use {
   fill: none;
 }
+
+
+.material-icons2 {
+    position: relative;
+    top: 6px; /*Change this to adjust the icon*/
+}
+
 
 /* -------------------------------- 
 
